@@ -20,6 +20,5 @@ Model weights are stored in [kaggle](https://www.kaggle.com/datasets/asibrahman/
 `aug-fold-{0,1,2,3}` contains 4 models with augmented data
 
 ## Inference Notebook
-Link : [https://www.kaggle.com/code/asibrahman/rx-7600-dl-sprint-2-inference](https://www.kaggle.com/code/asibrahman/rx-7600-dl-sprint-2-inference)
-
+Link : [https://www.kaggle.com/code/asibrahman/rx-7600-dl-sprint-2-inference/notebook](https://www.kaggle.com/code/asibrahman/rx-7600-dl-sprint-2-inference/notebook)
 
